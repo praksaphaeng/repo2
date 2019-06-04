@@ -1,0 +1,10 @@
+ Volume in drive D is Kla
+ Volume Serial Number is 6EE6-9D0E
+
+ Directory of D:\Kla\Learn\GIT\Git_Project
+
+02-Jun-19  19:32    <DIR>          .
+02-Jun-19  19:32    <DIR>          ..
+02-Jun-19  19:32                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  57,752,723,456 bytes free
